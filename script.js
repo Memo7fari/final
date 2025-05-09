@@ -70,4 +70,4 @@ document.getElementById("searchBox").addEventListener("keypress", function(event
       oldContent.appendChild(newDiv);
     }
   }
-  s
+  
